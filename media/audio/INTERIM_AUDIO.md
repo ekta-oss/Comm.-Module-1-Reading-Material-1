@@ -1,6 +1,6 @@
 # Interim course audio (computer voice) — NOT final
 
-No recorded voice files were supplied for Module 1, Segment 1. These 16 MP3s are
+No recorded voice files were supplied for Module 1, Segment 1. These 24 MP3s are
 **stand-ins** made with Kokoro (open-source neural text-to-speech, Apache-2.0) by
 `scripts/make-voice.mts`, so every listening activity works end to end.
 
@@ -25,5 +25,13 @@ To replace a file, drop the voice artist's recording here with **the same file n
 | M1_S01_04_WORD_goodbye.mp3 | WORD | af_heart | Goodbye |
 | M1_S01_04_WORD_see-you.mp3 | WORD | af_heart | See you |
 | M1_S01_04_WORD_see-you-tomorrow.mp3 | WORD | af_heart | See you tomorrow |
-| M1_S01_05_NAR_01.mp3 | NAR | am_michael | Hello is a greeting used in the English language. People say 'hello' when they meet someone, or when they answer a phone call. Many people also say 'hi'. 'Hi' is an informal word. We often use it with friends and family. 'Hello' can be used in both informal and formal places, like a class or an office. There are other informal greetings too, like 'hey' and 'hiya'. Saying hello is a sign of politeness, especially when you say it in a friendly way. A greeting is not only a word. People also greet each other with actions. They may wave, nod, bow or shake hands. One of the most common action greetings is the handshake. In a handshake, two people hold each other's right hand for a short time. They move their hands up and down a little, and then they let go. People shake hands when they meet. They also shake hands to show that they agree on something. The handshake is very old, and people in many cultures use it. But it is not exactly the same everywhere. In some places, people give a firm handshake and hold the other hand tightly. In other places, a gentle handshake is more polite. In some cultures, the senior person, who is older or more important, offers a hand first. A handshake can be short or long. Almost everywhere, people shake hands with bare hands, not with gloves on. In some places, men and women do not usually shake hands. Family members often hug instead. So it is a good idea to watch what other people do, and follow them. Whether you say 'hello,' wave, or shake hands, a greeting is your first chance to be friendly and polite to someone new. |
+| M1_S01_05_GLOSS_greeting.mp3 | NAR | am_michael | Greeting. Something you say or do when you meet someone, like “hello” or a wave. |
+| M1_S01_05_GLOSS_informal.mp3 | NAR | am_michael | Informal. Relaxed and friendly. We use informal words with friends and family. |
+| M1_S01_05_GLOSS_formal.mp3 | NAR | am_michael | Formal. Careful and serious. We use formal words at work, in class, or with people we do not know well. |
+| M1_S01_05_GLOSS_politeness.mp3 | NAR | am_michael | Politeness. Being kind and showing respect to other people. |
+| M1_S01_05_GLOSS_handshake.mp3 | NAR | am_michael | Handshake. When two people hold each other’s hand and move it up and down, to greet or to agree. |
+| M1_S01_05_GLOSS_firm.mp3 | NAR | am_michael | Firm. Strong and tight. |
+| M1_S01_05_GLOSS_gentle.mp3 | NAR | am_michael | Gentle. Soft and light; not strong. |
+| M1_S01_05_GLOSS_senior.mp3 | NAR | am_michael | Senior. Older, or higher in position. |
+| M1_S01_05_GLOSS_bare.mp3 | NAR | am_michael | Bare. Not covered. Bare hands have no gloves on them. |
 | M1_S01_08_LIS_01.mp3 | NAR | am_michael | Good afternoon. |
